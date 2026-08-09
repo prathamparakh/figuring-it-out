@@ -61,3 +61,19 @@ Learn concept
 Memorize concept
     ↓
 Move on
+   ↓
+Question
+   ↓
+Research
+   ↓
+ Build
+   ↓
+Get stuck
+   ↓
+Understand
+   ↓
+  Fix
+   ↓
+Document
+   ↓
+ Repeat
